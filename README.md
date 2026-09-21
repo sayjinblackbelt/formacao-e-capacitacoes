@@ -167,7 +167,7 @@ A tecnologia é utilizada como instrumento para desenvolver **autonomia, pensame
 
 # 📚 DIO — Digital Innovation One
 
-Meu histórico na DIO reúne **86 certificações e atividades**, realizadas entre **outubro de 2022 e setembro de 2026**.
+Meu histórico na DIO reúne **87 certificações e atividades**, realizadas entre **outubro de 2022 e setembro de 2026**.
 
 A trajetória acompanha uma evolução técnica progressiva:
 
@@ -207,7 +207,7 @@ A trajetória acompanha uma evolução técnica progressiva:
 - Vibe Coding
 - Agentes de IA com Claude
 
-> A lista completa das capacitações pode ser organizada posteriormente em uma página ou arquivo específico, mantendo neste README apenas as formações mais relevantes para o posicionamento profissional.
+> A lista completa está organizada no [Catálogo completo de capacitações DIO](./certificacoes/CATALOGO-COMPLETO-DIO.md), enquanto este README mantém em destaque as formações mais relevantes para o posicionamento profissional.
 
 ---
 
