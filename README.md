@@ -224,9 +224,16 @@ A trajetória acompanha uma evolução técnica progressiva:
 | [Waiting List Management System](https://github.com/sayjinblackbelt/waiting-list-management-system) | Sistemas, processos e automação |
 | [26_Design_Grafico](https://github.com/sayjinblackbelt/26_Design_Grafico) | Design, educação, projetos e comunicação visual |
 
+
+## 👔 Para recrutadores
+
+**[Acessar apresentação profissional →](./recrutadores/index.html)**
+
+Uma visão rápida das principais competências, projetos e evidências do portfólio.
+
 ---
 
-# 🗺️ Linha do tempo da evolução
+# 🗺️ Linha do tempo/ da evolução
 
 **2022**  
 Fundamentos de programação e tecnologia.
