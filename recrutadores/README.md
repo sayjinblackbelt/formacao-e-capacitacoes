@@ -1,43 +1,80 @@
-# Apresentação para recrutadores
+# Apresentação profissional para recrutadores
 
-Perfil orientado a recrutadores, destacando competências e projetos.
+## Perfil
 
-## Posicionamento
+Profissional multidisciplinar na interseção entre **Tecnologia, Inteligência Artificial, Automação, Educação, Design Digital e Gestão de Projetos**.
 
-Profissional multidisciplinar com atuação na interseção entre **Tecnologia, Inteligência Artificial, Automação, Educação, Design Digital e Gestão de Projetos**.
+A trajetória combina formação técnica, experiência em projetos e atuação educacional. O foco recente está na criação de **soluções digitais com IA, automação, desenvolvimento de software, dados e agentes de IA**, mantendo conexão com problemas concretos de processos, aprendizagem e comunicação.
 
-## Competências em destaque
+## Competências principais
 
-- IA Generativa, LLMs e agentes de IA
-- Python e JavaScript
-- Git/GitHub e CI
-- APIs e desenvolvimento Web
-- Dados, dashboards e automação
-- PMO e metodologias ágeis
-- Design digital e comunicação visual
-- Tecnologia educacional
+### Inteligência Artificial
+- IA Generativa
+- LLMs
+- Agentes de IA
+- Machine Learning
+- aplicação responsável de IA
+- automação assistida por IA
 
-## Evidências principais
+### Desenvolvimento e tecnologia
+- Python
+- JavaScript
+- desenvolvimento Web
+- APIs
+- Git/GitHub
+- GitHub Actions / CI
+- bancos de dados
+- automação
 
-| Projeto | O que demonstra |
+### Dados e processos
+- SQL
+- dashboards e indicadores
+- análise estruturada de dados
+- Google Workspace / Apps Script
+- PMO
+- gestão documental
+- processos e governança
+
+### Educação e design
+- Tecnologia Educacional
+- aprendizagem baseada em projetos
+- Design Digital
+- comunicação visual
+- mídias digitais
+- preparação para o mundo do trabalho
+
+## Projetos que demonstram aplicação
+
+| Projeto | Evidências principais |
 |---|---|
-| [NEXA Studio](https://github.com/sayjinblackbelt/NEXA-Studio) | Design + tecnologia + arquitetura Web + API + PostgreSQL + CI |
-| [Document Intelligence Agent](https://github.com/sayjinblackbelt/document-intelligence-agent) | IA + documentos + API + OCR + histórico + testes + CI |
-| [Agente PMT](https://github.com/sayjinblackbelt/Agente-PMT) | IA + educação + agentes + empregabilidade + autonomia digital |
-| [AI Financial Agent Builder](https://github.com/sayjinblackbelt/AI-Financial-Agent-Builder) | Dados + análise determinística + arquitetura de agentes + Flask + SQLite |
-| [PMO Automation & Dashboard](https://github.com/sayjinblackbelt/pmo-automation-and-dashboard) | PMO + Python + dados + indicadores + automação |
-| [26_Design_Grafico](https://github.com/sayjinblackbelt/26_Design_Grafico) | Design + educação + PBL + sprints + comunicação visual |
+| [NEXA Studio](https://github.com/sayjinblackbelt/NEXA-Studio) | Design, comunicação visual, frontend, API Node.js, PostgreSQL, Supabase preparado, CI e documentação técnica. |
+| [Document Intelligence Agent](https://github.com/sayjinblackbelt/document-intelligence-agent) | Análise documental, regras determinísticas, IA assistida, OCR, SQLite, API, dashboard, autenticação, testes e CI. |
+| [Agente PMT](https://github.com/sayjinblackbelt/Agente-PMT) | Arquitetura educacional com três agentes: Carreira, Estudos e Administração Digital. |
+| [AI Financial Agent Builder](https://github.com/sayjinblackbelt/AI-Financial-Agent-Builder) | Perfil financeiro estruturado, Flask, SQLite, análise determinística, insights, dashboard e configuração de agente. |
+| [PMO Automation & Dashboard](https://github.com/sayjinblackbelt/pmo-automation-and-dashboard) | PMO, Python, dados, indicadores, análise de riscos, automação e dashboard. |
+| [26_Design_Grafico](https://github.com/sayjinblackbelt/26_Design_Grafico) | Design, educação, projetos, sprints, PBL e comunicação visual. |
 
-## Formação
-
-[87 registros de capacitações DIO](../certificacoes/CATALOGO-COMPLETO-DIO.md) · [Matriz de evidências](../certificacoes/MATRIZ-CAPACITACAO-PROJETO.md)
-
-## Princípio de apresentação
+## Como interpretar as evidências
 
 **Capacitação → Competência → Projeto → Evidência**
 
-A formação demonstra estudo; os projetos demonstram aplicação. As relações indiretas são identificadas como tais, evitando transformar uma certificação em uma alegação de experiência não documentada.
+A capacitação demonstra estudo. O projeto demonstra aplicação documentada. Quando a relação entre uma formação e um projeto é apenas temática, ela é tratada como relação indireta, e não como prova de experiência específica.
 
-## Contato e portfólio
+## Formação
 
-[GitHub](https://github.com/sayjinblackbelt) · [NEXA Studio](https://sayjinblackbelt.github.io/NEXA-Studio/)
+- [Catálogo completo — 87 registros DIO](../certificacoes/CATALOGO-COMPLETO-DIO.md)
+- [Matriz Capacitação → Projeto → Evidência](../certificacoes/MATRIZ-CAPACITACAO-PROJETO.md)
+- [Principais áreas de capacitação](../certificacoes/README.md)
+
+## Portfólio
+
+- [GitHub](https://github.com/sayjinblackbelt)
+- [NEXA Studio](https://sayjinblackbelt.github.io/NEXA-Studio/)
+- [Agente PMT](https://sayjinblackbelt.github.io/Agente-PMT/)
+- [AI Financial Agent Builder](https://sayjinblackbelt.github.io/AI-Financial-Agent-Builder/)
+
+## Posicionamento
+
+O ponto central do portfólio é a combinação de **tecnologia + IA + automação + educação + design + experiência em projetos**, documentada por formação e projetos públicos.
+
+> **Estudo → experimentação → aplicação → documentação → evolução.**
