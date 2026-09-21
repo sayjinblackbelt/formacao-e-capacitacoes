@@ -225,6 +225,30 @@ A trajetória acompanha uma evolução técnica progressiva:
 | [26_Design_Grafico](https://github.com/sayjinblackbelt/26_Design_Grafico) | Design, educação, projetos e comunicação visual |
 
 
+## 🤖 Projetos de IA — análise técnica
+
+Os quatro projetos abaixo concentram a aplicação mais recente de **IA, GenAI, LLMs, agentes, automação e arquitetura de soluções**:
+
+| Projeto | Foco |
+|---|---|
+| **NEXA Studio** | Produto digital, design, tecnologia e arquitetura |
+| **Document Intelligence Agent** | Documentos, automação e IA assistida |
+| **Agente PMT** | IA educacional e agentes especializados |
+| **AI Financial Agent Builder** | Dados, regras e arquitetura de agente |
+
+### Evidências técnicas
+
+- **NEXA Studio:** frontend, Node.js API, PostgreSQL, Supabase preparado, CI, testes, QA e governança.
+- **Document Intelligence Agent:** análise determinística + IA, OCR, providers Local/OpenAI/Ollama, API, SQLite, Docker e CI.
+- **Agente PMT:** arquitetura com três agentes especializados, aplicação educacional, documentação de segurança e validação estrutural.
+- **AI Financial Agent Builder:** Flask, SQLite, análise determinística, dashboard, configuração de agente, geração de prompts e CI.
+
+> A análise detalhada separa o que está implementado do que permanece em roadmap e distingue evidência direta de associação temática.
+
+**[Ver análise técnica completa dos Projetos de IA →](./certificacoes/PROJETOS-IA.md)**
+
+---
+
 ## 👔 Para recrutadores
 
 **[Acessar apresentação profissional →](./recrutadores/index.html)**
@@ -258,6 +282,8 @@ IA Generativa, LLMs, agentes de IA, Vibe Coding e integração de IA com projeto
 - [NEXA Studio](https://github.com/sayjinblackbelt/NEXA-Studio)
 - [PMO Automation & Dashboard](https://github.com/sayjinblackbelt/pmo-automation-and-dashboard)
 - [Agente PMT](https://github.com/sayjinblackbelt/Agente-PMT)
+- [AI Financial Agent Builder](https://github.com/sayjinblackbelt/AI-Financial-Agent-Builder)
+- [Projetos de IA — análise técnica](./certificacoes/PROJETOS-IA.md)
 
 ---
 
@@ -269,4 +295,4 @@ Por isso, este repositório funciona como um índice da formação, enquanto os 
 
 ---
 
-_Última atualização: setembro de 2026_
+_Última atualização: setembro de 2026 · Projetos de IA detalhados e integrados à navegação do portfólio_
