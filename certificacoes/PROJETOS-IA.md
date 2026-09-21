@@ -1,12 +1,12 @@
 # Projetos de IA — Evidências técnicas e aplicação
 
-Esta página detalha os quatro projetos de IA prioritários do portfólio e sua relação com a formação em IA, GenAI, agentes, automação, desenvolvimento e educação.
+Esta página detalha quatro projetos prioritários de IA e arquitetura de soluções do portfólio e sua relação com a formação em IA, GenAI, agentes, automação, desenvolvimento e educação.
 
 > A descrição abaixo é derivada da documentação atual dos próprios repositórios. Onde o projeto ainda está em roadmap ou protótipo, isso é explicitamente indicado.
 
 ## 01 · NEXA Studio
 
-**Papel no portfólio:** ecossistema multidisciplinar que integra design, estratégia, tecnologia e comunicação visual.
+**Papel no portfólio:** ecossistema multidisciplinar que integra design, estratégia, tecnologia e comunicação visual, com experimentação tecnológica documentada.
 
 **Competências demonstradas:** Design, comunicação visual, frontend, Node.js/API, PostgreSQL, Supabase, CI, testes, governança, QA, segurança e arquitetura de produto digital.
 
@@ -20,7 +20,7 @@ Esta página detalha os quatro projetos de IA prioritários do portfólio e sua 
 
 ## 02 · Document Intelligence Agent
 
-**Papel no portfólio:** aplicação de IA e automação para análise estruturada de documentos.
+**Papel no portfólio:** aplicação de IA assistida e automação para análise estruturada de documentos.
 
 **Competências demonstradas:** Python, processamento de documentos, OCR, análise determinística, IA assistida, JSON estruturado, SQLite, APIs, JWT, Docker, testes, GitHub Actions/CI, dashboards, processamento em lote, comparação documental e auditoria.
 
