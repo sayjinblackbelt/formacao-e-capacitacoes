@@ -1,8 +1,10 @@
 # Catálogo completo de capacitações DIO
 
-Histórico organizado a partir do registro disponível de **87 certificações e atividades da DIO**, entre outubro de 2022 e setembro de 2026.
+Histórico organizado a partir do registro fornecido, com **87 certificações e atividades da DIO**, entre outubro de 2022 e setembro de 2026.
 
-> Os títulos e datas abaixo foram preservados do registro original. A classificação serve apenas para navegação e organização do portfólio.
+> **Nota de conferência:** o arquivo-fonte contém um primeiro registro sem numeração, seguido pelos itens numerados de 1 a 86. Portanto, o conjunto efetivamente contém **87 registros**. Os títulos e datas foram preservados sem alteração.
+
+A classificação por área abaixo é apenas uma camada de organização para navegação do portfólio.
 
 ## IA, GenAI & Agentes
 
@@ -23,8 +25,13 @@ Histórico organizado a partir do registro disponível de **87 certificações e
 | 8 | Aula Inaugural - Microsoft Azure AI Fundamentals | 26/02/2024 |
 | 43 | Criando um Dashboard de Vendas com Power BI | 13/01/2023 |
 | 50 | O Novo Mundo das Cidades Inteligentes com Tecnologia de IoT | 26/11/2022 |
+| 53 | Cibersegurança e Deep Web: Como Proteger Dados na Internet? | 19/11/2022 |
+| 61 | Cloud Fullstack Bootcamp - Warburg Pincus \| Aula Inaugural | 05/11/2022 |
 | 62 | Google Cloud Platform (GCP) For Beginners | 05/11/2022 |
+| 63 | Criando sua biblioteca para React | 03/11/2022 |
 | 67 | Primeiros Passos com AWS | 02/11/2022 |
+| 68 | Aprenda o que são Estrutura de Dados e Algoritmos | 02/11/2022 |
+| 83 | Evitando o 7x1 com Python e SQL | 29/10/2022 |
 
 ## Fundamentos & Complementares
 
@@ -63,8 +70,6 @@ Histórico organizado a partir do registro disponível de **87 certificações e
 | 26 | Estrutura de um Software e Seu Ambiente de Desenvolvimento | 06/11/2023 |
 | 27 | Entendendo Algoritmos e Fluxogramas | 06/11/2023 |
 | 28 | Introdução aos Conceitos Básicos em Lógica de Programação | 05/11/2023 |
-| 29 | Princípios de Desenvolvimento Ágil e Colaborativo | 05/11/2023 |
-| 31 | Contribuindo em um Projeto Open Source no GitHub | 05/11/2023 |
 | 33 | Versionamento de Código com Git e GitHub | 28/10/2023 |
 | 36 | Introdução à Programação e Pensamento Computacional | 07/04/2023 |
 | 40 | Introdução ao Desenvolvimento Moderno de Software | 11/03/2023 |
@@ -73,16 +78,12 @@ Histórico organizado a partir do registro disponível de **87 certificações e
 | 47 | DIO Fullstack Labs - Criando API no Java | 10/12/2022 |
 | 48 | DIO Fullstack Labs - Dia 2 | 10/12/2022 |
 | 51 | Java Beginners - Pedra, Papel e Tesoura | 23/11/2022 |
-| 53 | Cibersegurança e Deep Web: Como Proteger Dados na Internet? | 19/11/2022 |
 | 54 | Máquina de Memes com Front-end - Dia 2 | 17/11/2022 |
 | 55 | Máquina de Memes com Front-end - Dia 1 | 16/11/2022 |
 | 57 | Criando seu primeiro jogo com Unity 3D | 10/11/2022 |
 | 59 | Sintaxe Básica em JavaScript | 07/11/2022 |
 | 60 | Instalação e Configuração do Visual Studio Code | 07/11/2022 |
-| 61 | Cloud Fullstack Bootcamp - Warburg Pincus \| Aula Inaugural | 05/11/2022 |
-| 63 | Criando sua biblioteca para React | 03/11/2022 |
 | 66 | Sintaxe e Operadores JavaScript | 02/11/2022 |
-| 68 | Aprenda o que são Estrutura de Dados e Algoritmos | 02/11/2022 |
 | 69 | Introdução ao Desenvolvimento Web com JavaScript | 01/11/2022 |
 | 70 | Importação e Exportação com JavaScript | 01/11/2022 |
 | 71 | Arrays e Estruturas de Repetição em JavaScript | 01/11/2022 |
@@ -93,14 +94,14 @@ Histórico organizado a partir do registro disponível de **87 certificações e
 | 76 | Semana Front-end \| Dia 01: Construindo uma Landing Page no Mundo Invertido com HTML e CSS | 29/10/2022 |
 | 78 | Blockchain para Devs | 29/10/2022 |
 | 79 | Primeiros Passos Com JavaScript | 29/10/2022 |
-| 80 | Carreira Tech: Como Decidir Entre Front-end, Back-end e Fullstack | 29/10/2022 |
-| 83 | Evitando o 7x1 com Python e SQL | 29/10/2022 |
 | 85 | Introdução ao Git e ao GitHub | 27/10/2022 |
 
 ## Gestão, PMO & Agilidade
 
 | # | Capacitação | Data |
 |---:|---|---|
+| 29 | Princípios de Desenvolvimento Ágil e Colaborativo | 05/11/2023 |
+| 31 | Contribuindo em um Projeto Open Source no GitHub | 05/11/2023 |
 | 32 | Desafios de Projetos: Crie Um Portfólio Vencedor | 29/10/2023 |
 | 34 | Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas! | 16/10/2023 |
 | 39 | Se Preparando Para Uma Entrevista | 12/03/2023 |
@@ -111,6 +112,7 @@ Histórico organizado a partir do registro disponível de **87 certificações e
 | 58 | Estratégia de Negócios com OKR | 08/11/2022 |
 | 64 | Mentalidade Empreendedora | 03/11/2022 |
 | 77 | REALIZANDO O SONHO DE TRABALHAR COM TI \| HIRED #27 | 29/10/2022 |
+| 80 | Carreira Tech: Como Decidir Entre Front-end, Back-end e Fullstack | 29/10/2022 |
 | 81 | Global Skills: aprenda a se preparar para uma entrevista em inglês em tecnologia | 29/10/2022 |
 | 84 | Como Entregar seu Desafio de Projeto | 27/10/2022 |
 | 86 | Seja Protagonista Neste Bootcamp | 18/10/2022 |
@@ -123,12 +125,12 @@ Histórico organizado a partir do registro disponível de **87 certificações e
 
 ## Evolução
 
-- **2022:** fundamentos de programação, desenvolvimento, cloud, dados, agilidade e tecnologia.
-- **2023:** aprofundamento em programação, desenvolvimento de software, Git/GitHub, dados e agilidade.
-- **2024:** expansão para IA, Machine Learning, Azure AI e dados.
-- **2025:** IA aplicada e Microsoft Copilot Studio.
-- **2026:** IA moderna, LLMs, IA generativa, agentes de IA, GenAI, Dados & Cyber e Vibe Coding.
+- **2022 — 44 registros:** fundamentos, programação, desenvolvimento, cloud, dados, agilidade e tecnologia.
+- **2023 — 33 registros:** aprofundamento em programação, desenvolvimento de software, Git/GitHub, dados e agilidade.
+- **2024 — 5 registros:** IA, Machine Learning, Azure AI e fundamentos relacionados.
+- **2025 — 2 registros:** Microsoft Copilot Studio.
+- **2026 — 3 registros:** IA moderna, GenAI e Vibe Coding/agentes.
 
 ## Fonte
 
-Registro original de capacitações DIO utilizado para este catálogo.
+Registro original de capacitações DIO fornecido para organização deste portfólio.
