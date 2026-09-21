@@ -167,7 +167,7 @@ A tecnologia é utilizada como instrumento para desenvolver **autonomia, pensame
 
 # 📚 DIO — Digital Innovation One
 
-Meu histórico na DIO reúne **87 certificações e atividades**, realizadas entre **outubro de 2022 e setembro de 2026**.
+Meu histórico na DIO reúne **87 certificações e atividades**, registradas entre **outubro de 2022 e setembro de 2026**.
 
 A trajetória acompanha uma evolução técnica progressiva:
 
