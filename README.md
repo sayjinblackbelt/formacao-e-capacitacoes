@@ -217,7 +217,7 @@ A trajetória acompanha uma evolução técnica progressiva:
 |---|---|
 | [NEXA Studio](https://github.com/sayjinblackbelt/NEXA-Studio) | Design, tecnologia, arquitetura, API, PostgreSQL, Supabase, frontend |
 | [PMO Automation & Dashboard](https://github.com/sayjinblackbelt/pmo-automation-and-dashboard) | PMO, Python, dados, indicadores, automação, governança |
-| [document-intelligence-agent](https://github.com/sayjinblackbelt/document-intelligence-agent) | IA, documentos, automação, agentes |
+| [document-intelligence-agent](https://github.com/sayjinblackbelt/document-intelligence-agent) | IA assistida, documentos, automação |
 | [Agente PMT](https://github.com/sayjinblackbelt/Agente-PMT) | IA, educação, carreira e preparação profissional |
 | [Google Workspace Automation](https://github.com/sayjinblackbelt/google-workspace-automation) | Google Apps Script, automação e produtividade |
 | [Social Survey Management System](https://github.com/sayjinblackbelt/social-survey-management-system) | Dados, formulários, gestão e automação |
@@ -225,9 +225,9 @@ A trajetória acompanha uma evolução técnica progressiva:
 | [26_Design_Grafico](https://github.com/sayjinblackbelt/26_Design_Grafico) | Design, educação, projetos e comunicação visual |
 
 
-## 🤖 Projetos de IA — análise técnica
+## 🤖 Projetos de IA e arquitetura de soluções
 
-Os quatro projetos abaixo concentram a aplicação mais recente de **IA, GenAI, LLMs, agentes, automação e arquitetura de soluções**:
+Os quatro projetos abaixo concentram a aplicação mais recente de **IA, GenAI, agentes, automação e arquitetura de soluções**. A documentação distingue implementação efetiva de relações temáticas ou experimentais:
 
 | Projeto | Foco |
 |---|---|
@@ -238,7 +238,7 @@ Os quatro projetos abaixo concentram a aplicação mais recente de **IA, GenAI, 
 
 ### Evidências técnicas
 
-- **NEXA Studio:** frontend, Node.js API, PostgreSQL, Supabase preparado, CI, testes, QA e governança.
+- **NEXA Studio:** frontend, Node.js API, PostgreSQL, Supabase preparado, CI, testes, QA e governança; a relação com IA é apresentada como experimentação, não como funcionalidade de IA já implementada.
 - **Document Intelligence Agent:** análise determinística + IA, OCR, providers Local/OpenAI/Ollama, API, SQLite, Docker e CI.
 - **Agente PMT:** arquitetura com três agentes especializados, aplicação educacional, documentação de segurança e validação estrutural.
 - **AI Financial Agent Builder:** Flask, SQLite, análise determinística, dashboard, configuração de agente, geração de prompts e CI.
