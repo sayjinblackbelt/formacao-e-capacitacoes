@@ -48,6 +48,9 @@ jobs:
             <url>
               <loc>https://sayjinblackbelt.github.io/formacao-e-capacitacoes/</loc>
             </url>
+            <url>
+              <loc>https://sayjinblackbelt.github.io/formacao-e-capacitacoes/ia/</loc>
+            </url>
           </urlset>
           EOF
 
