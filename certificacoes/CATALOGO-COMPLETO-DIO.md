@@ -2,7 +2,7 @@
 
 Histórico organizado a partir do registro fornecido, com **87 certificações e atividades da DIO**, entre outubro de 2022 e setembro de 2026.
 
-> **Nota de conferência:** o arquivo-fonte contém um primeiro registro sem numeração, seguido pelos itens numerados de 1 a 86. Portanto, o conjunto efetivamente contém **87 registros**. Os títulos e datas foram preservados sem alteração.
+> **Nota de conferência:** o catálogo consolidado contém **87 registros**, numerados de 1 a 87. Os títulos e datas foram preservados sem alteração.
 
 A classificação por área abaixo é apenas uma camada de organização para navegação do portfólio.
 
