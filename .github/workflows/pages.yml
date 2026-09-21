@@ -1,0 +1,61 @@
+name: Deploy recruiter portfolio to GitHub Pages
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "recrutadores/**"
+      - "README.md"
+      - "certificacoes/**"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Prepare site
+        run: |
+          mkdir -p public
+          cp -R recrutadores/. public/
+          touch public/.nojekyll
+          cat > public/robots.txt <<'EOF'
+          User-agent: *
+          Allow: /
+          Sitemap: https://sayjinblackbelt.github.io/formacao-e-capacitacoes/sitemap.xml
+          EOF
+          cat > public/sitemap.xml <<'EOF'
+          <?xml version="1.0" encoding="UTF-8"?>
+          <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+            <url>
+              <loc>https://sayjinblackbelt.github.io/formacao-e-capacitacoes/</loc>
+            </url>
+          </urlset>
+          EOF
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
