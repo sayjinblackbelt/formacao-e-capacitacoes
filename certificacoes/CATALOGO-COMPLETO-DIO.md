@@ -1,8 +1,8 @@
 # Catálogo completo de capacitações DIO
 
-Histórico organizado a partir do registro fornecido, com **87 certificações e atividades da DIO**, entre outubro de 2022 e setembro de 2026.
+Histórico organizado a partir do registro fornecido, com **93 certificações e atividades da DIO**, entre outubro de 2022 e setembro de 2026.
 
-> **Nota de conferência:** o catálogo consolidado contém **87 registros**, numerados de 1 a 87. Os títulos e datas foram preservados sem alteração.
+> **Nota de conferência:** o catálogo consolidado contém **93 registros**, numerados de 1 a 93. Os títulos e datas foram preservados sem alteração.
 
 A classificação por área abaixo é apenas uma camada de organização para navegação do portfólio.
 
@@ -11,6 +11,12 @@ A classificação por área abaixo é apenas uma camada de organização para na
 | # | Capacitação | Data |
 |---:|---|---|
 | 1 | Imersão em Vibe Coding e Agentes de IA com Claude | 18/09/2026 |
+| 88 | IA Generativa: Fundamentos, Prompting e Aplicações | 21/09/2026 |
+| 89 | IA Generativa: Fundamentos, Prompting e Aplicações | 21/09/2026 |
+| 90 | Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM | 21/09/2026 |
+| 91 | Técnicas de Engenharia de Prompt | 21/09/2026 |
+| 92 | Introdução à Engenharia de Prompts | 21/09/2026 |
+| 93 | Fundamentos de Modelos de Linguagem de Grande Escala | 21/09/2026 |
 | 2 | Fundamentos da IA Moderna: Machine Learning, LLMs, IA Generativa e Agentes | 25/05/2026 |
 | 4 | Conhecendo o Microsoft Copilot Studio | 27/04/2025 |
 | 5 | Introdução ao Copilot Studio com a Microsoft | 27/04/2025 |
@@ -129,7 +135,7 @@ A classificação por área abaixo é apenas uma camada de organização para na
 - **2023 — 33 registros:** aprofundamento em programação, desenvolvimento de software, Git/GitHub, dados e agilidade.
 - **2024 — 5 registros:** IA, Machine Learning, Azure AI e fundamentos relacionados.
 - **2025 — 2 registros:** Microsoft Copilot Studio.
-- **2026 — 3 registros:** IA moderna, GenAI e Vibe Coding/agentes.
+- **2026 — 9 registros:** IA moderna, LLMs, IA Generativa, Engenharia de Prompt, NotebookLM, GenAI, Dados & Cyber e Vibe Coding/agentes.
 
 ## Fonte
 
