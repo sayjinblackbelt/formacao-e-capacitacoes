@@ -41,6 +41,7 @@ A formação contribui para minha atuação em educação, desenvolvimento human
 - Vibe Coding
 - Automação com IA
 - Microsoft Copilot Studio
+- NotebookLM aplicado à aprendizagem
 - Aplicações práticas de IA em educação e produtividade
 
 ### Aplicação em projetos
@@ -103,11 +104,12 @@ Experiência com sistemas de acompanhamento, dashboards, automações, formulár
 
 ---
 
-## 04 · Gestão de Projetos, PMO & Agilidade
+## 04 · Gestão, PMO & Agilidade
 
-Formação complementar diretamente relacionada à experiência profissional em projetos.
+Formação complementar diretamente relacionada à experiência profissional em projetos e atuação como **Analista MIS**.
 
 - PMO
+- Management Information Systems (MIS)
 - Gestão de projetos
 - Scrum
 - Kanban
@@ -167,7 +169,7 @@ A tecnologia é utilizada como instrumento para desenvolver **autonomia, pensame
 
 # 📚 DIO — Digital Innovation One
 
-Meu histórico na DIO reúne **87 certificações e atividades**, registradas entre **outubro de 2022 e setembro de 2026**.
+Meu histórico na DIO reúne **93 certificações e atividades**, registradas entre **outubro de 2022 e setembro de 2026**.
 
 A trajetória acompanha uma evolução técnica progressiva:
 
@@ -202,6 +204,8 @@ A trajetória acompanha uma evolução técnica progressiva:
 - Machine Learning
 - LLMs
 - IA Generativa
+- Engenharia de Prompt
+- NotebookLM
 - Agentes de IA
 - GenAI, Dados & Cyber
 - Vibe Coding
@@ -257,7 +261,7 @@ Uma visão rápida das principais competências, projetos e evidências do portf
 
 ---
 
-# 🗺️ Linha do tempo/ da evolução
+# 🗺️ Linha do tempo da evolução
 
 **2022**  
 Fundamentos de programação e tecnologia.
@@ -272,7 +276,7 @@ Expansão para Inteligência Artificial, Machine Learning, Azure AI e Dados.
 IA aplicada, automação e Microsoft Copilot Studio.
 
 **2026**  
-IA Generativa, LLMs, agentes de IA, Vibe Coding e integração de IA com projetos reais.
+IA Generativa, LLMs, Engenharia de Prompt, NotebookLM, agentes de IA, Vibe Coding e integração de IA com projetos reais.
 
 ---
 
@@ -295,4 +299,4 @@ Por isso, este repositório funciona como um índice da formação, enquanto os 
 
 ---
 
-_Última atualização: setembro de 2026 · Projetos de IA detalhados e integrados à navegação do portfólio_
+_Última atualização: setembro de 2026 · 93 registros DIO · Projetos de IA detalhados e integrados à navegação do portfólio_
