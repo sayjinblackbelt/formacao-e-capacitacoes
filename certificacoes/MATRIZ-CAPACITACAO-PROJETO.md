@@ -29,6 +29,18 @@ Esta matriz conecta as principais capacitações da formação às competências
 | **Introdução ao Desenvolvimento Moderno de Software** — 2023 | Engenharia de software, desenvolvimento | [NEXA Studio](https://github.com/sayjinblackbelt/NEXA-Studio) | Projeto com frontend, API, PostgreSQL e documentação técnica. |
 | **Contribuindo em um Projeto Open Source no GitHub** — 2023 | GitHub, colaboração, open source | [GitHub](https://github.com/sayjinblackbelt) | Experiência documentada na formação e utilização contínua do GitHub. |
 
+## Dados, Python & Analytics
+
+A formação recente também inclui Python, Pandas/NumPy, limpeza, análise, visualização, detecção de anomalias e Power BI.
+
+## SQL, Bancos & Engenharia de Dados
+
+A trilha atual inclui SQL, bancos relacionais, ETL, Power Query, arquitetura orientada a eventos, Apache Kafka e dados em tempo real.
+
+## Cibersegurança & DevSecOps
+
+A trilha atual inclui fundamentos de cibersegurança, DevSecOps, engenharia social, sistemas operacionais e máquinas virtuais, segurança de dados e IA.
+
 ## Dados, Cloud & Automação
 
 | Capacitação | Competências relacionadas | Projeto / aplicação | Evidência |
