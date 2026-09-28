@@ -245,6 +245,16 @@ A documentação técnica mantém a distinção entre implementação efetiva, p
 
 ---
 
+## 🌐 Projeto em destaque — GitHub Pages
+
+### [🚀 Acessar o Portfólio Profissional](https://sayjinblackbelt.github.io/formacao-e-capacitacoes/recrutadores/)
+
+A apresentação visual reúne **formação, 135 registros DIO, 8 áreas de capacitação, projetos selecionados, aplicações de IA e evidências técnicas** em uma experiência única para consulta.
+
+> **Formação → Competências → Projetos → Evidências**
+
+---
+
 ## 👔 Para recrutadores
 
 **[Acessar apresentação profissional →](./recrutadores/index.html)**
