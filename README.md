@@ -1,5 +1,11 @@
 # Formação e Capacitações
 
+> ## 🚀 [ABRIR PORTFÓLIO PROFISSIONAL — GITHUB PAGES](https://sayjinblackbelt.github.io/formacao-e-capacitacoes/recrutadores/)
+
+**Formação · 135 registros DIO · 8 áreas · Projetos · Evidências**
+
+---
+
 Repositório dedicado ao registro e à organização da minha formação acadêmica, capacitações profissionais e evolução técnica.
 
 O objetivo não é apenas listar certificados, mas apresentar **como o conhecimento foi construído e aplicado em projetos reais**.
