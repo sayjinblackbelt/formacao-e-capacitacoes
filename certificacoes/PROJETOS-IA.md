@@ -1,8 +1,8 @@
-# Projetos de IA — Evidências técnicas e aplicação
+# Projetos de IA e arquitetura — Evidências técnicas e aplicação
 
-Esta página detalha quatro projetos prioritários de IA e arquitetura de soluções do portfólio e sua relação com a formação em IA, GenAI, agentes, automação, desenvolvimento e educação.
+Esta página detalha projetos prioritários de IA e arquitetura de soluções do portfólio e sua relação com a formação em IA, GenAI, agentes, automação, desenvolvimento, dados, streaming e educação.
 
-> A descrição abaixo é derivada da documentação atual dos próprios repositórios. Onde o projeto ainda está em roadmap ou protótipo, isso é explicitamente indicado.
+> A descrição abaixo é derivada da documentação atual dos próprios repositórios. Onde o projeto ainda está em roadmap, protótipo ou preparação operacional, isso é explicitamente indicado.
 
 ## 01 · NEXA Studio
 
@@ -10,11 +10,7 @@ Esta página detalha quatro projetos prioritários de IA e arquitetura de soluç
 
 **Competências demonstradas:** Design, comunicação visual, frontend, Node.js/API, PostgreSQL, Supabase, CI, testes, governança, QA, segurança e arquitetura de produto digital.
 
-**Arquitetura documentada:** frontend estático no GitHub Pages; `data/portfolio.json`; NEXA Lab; API v1 em Node.js; PostgreSQL schema v1; integração preparada com Supabase; CI e testes automatizados.
-
-**Evidências:** 14 concept cases, portfolio dinâmico, carrossel de projetos e gates técnicos 4.10.1 e 4.10.2 registrados como PASS.
-
-**Maturidade:** `4.10.3-A — HOSTING PREPARATION / IN VALIDATION`. A API ainda não está hospedada publicamente; o roadmap prevê deploy, integração pública, autenticação, RLS, segurança, beta e preparação comercial.
+**Maturidade:** `4.10.3-A — HOSTING PREPARATION / IN VALIDATION`.
 
 **Links:** [Repositório](https://github.com/sayjinblackbelt/NEXA-Studio) · [Site](https://sayjinblackbelt.github.io/NEXA-Studio/) · [NEXA Lab](https://sayjinblackbelt.github.io/NEXA-Studio/studio.html)
 
@@ -26,11 +22,7 @@ Esta página detalha quatro projetos prioritários de IA e arquitetura de soluç
 
 **Fluxo:** TXT/PDF/DOCX → extração de texto → análise determinística → IA Local/OpenAI/Ollama → JSON estruturado → SQLite → histórico, filtros e exportação.
 
-**Diferencial técnico:** a solução possui uma camada determinística anterior à análise assistida por IA, seguida de contrato JSON estruturado.
-
-**Funcionalidades:** PDF e DOCX, OCR, requisitos, pendências, riscos, score de completude, providers Local/OpenAI/Ollama, histórico, exportação, dashboard, lote de até 20 arquivos, comparação e auditoria.
-
-**Maturidade:** projeto demonstrativo com API, interface, testes, Docker e CI documentados. O README recomenda controles adicionais antes de uso em produção para dados sensíveis.
+**Maturidade:** projeto demonstrativo com API, interface, testes, Docker e CI documentados.
 
 **Link:** [Repositório](https://github.com/sayjinblackbelt/document-intelligence-agent)
 
@@ -40,13 +32,9 @@ Esta página detalha quatro projetos prioritários de IA e arquitetura de soluç
 
 **Arquitetura:** três agentes especializados — Agente Carreira, Agente Estudos e Agente Administração Digital.
 
-**Competências demonstradas:** arquitetura de agentes, IA aplicada à educação, design de experiência, tecnologia educacional, engenharia de prompts, segurança e responsabilidade em IA e organização de fluxos.
+**Competências demonstradas:** arquitetura de agentes, IA aplicada à educação, design de experiência, tecnologia educacional, engenharia de prompts, segurança e responsabilidade em IA.
 
-**Diferencial pedagógico:** o projeto declara que a IA deve funcionar como mediadora da aprendizagem, e não como substituta do estudante. Também incorpora princípios da Pedagogia Heulosófica.
-
-**Segurança:** não inventar experiências ou competências; não tomar decisões profissionais pelo estudante; minimizar coleta de dados; não solicitar senhas; ensinar uso responsável da IA.
-
-**Maturidade:** protótipo publicado no GitHub Pages. A arquitetura dos três agentes, documentação e validação estrutural C1–C8 estão registradas; testes de integração, piloto PMT, avaliação pedagógica e versão 2.0 permanecem no roadmap.
+**Maturidade:** protótipo publicado no GitHub Pages; testes de integração, piloto PMT, avaliação pedagógica e versão 2.0 permanecem no roadmap.
 
 **Links:** [Repositório](https://github.com/sayjinblackbelt/Agente-PMT) · [Demo](https://sayjinblackbelt.github.io/Agente-PMT/)
 
@@ -58,33 +46,43 @@ Esta página detalha quatro projetos prioritários de IA e arquitetura de soluç
 
 **Fluxo:** Guided Onboarding → Financial Profile → Flask API → SQLite → Financial Analyzer → Insights/Alerts/Trends → Agent Configuration → Future Conversational AI.
 
-**Decisão arquitetural:** a matemática financeira permanece fora do modelo de IA: dados e regras produzem os fatos; a futura IA interpreta intenção e apresenta contexto.
-
-**MVP:** onboarding financeiro, perfil, receitas/despesas, categorias, orçamentos, alertas, resumo mensal, comparação, tendências, insights por regras, configuração do agente, API, dashboard, testes e CI.
-
-**Limites:** não executa transações, não solicita credenciais bancárias, não toma decisões autônomas de investimento, não deve inventar dados e deve pedir esclarecimento quando houver dados insuficientes.
-
-**Maturidade:** `MVP v0.3 — validated core / browser validation next`. A próxima etapa documentada é a validação manual da experiência completa.
+**Maturidade:** `MVP v0.3 — validated core / browser validation next`.
 
 **Links:** [Repositório](https://github.com/sayjinblackbelt/AI-Financial-Agent-Builder) · [Case interativo](https://sayjinblackbelt.github.io/AI-Financial-Agent-Builder/)
 
+## 05 · Confluent Realtime Payment Pipeline
+
+**Papel no portfólio:** aplicação prática de arquitetura orientada a eventos e engenharia de dados em streaming, construída a partir do Bootcamp IBM Confluent — Dados em tempo real para agentes de IA.
+
+**Arquitetura documentada:** PostgreSQL → CDC → Confluent Cloud/Kafka → Schema Registry → Flink SQL → `fraud-alerts` → Consumer.
+
+**Competências demonstradas:** Event-Driven Architecture, Kafka, tópicos e partições, offsets, Consumer Groups, semânticas de entrega, evolução de schema, CDC, streaming, Flink SQL, joins, janelas temporais, enriquecimento de eventos e detecção de transações suspeitas.
+
+**Regra de negócio do desafio:** três transações do mesmo cartão em uma janela de 60 segundos geram um alerta.
+
+**Estado:** implementação estrutural preparada; execução no Confluent Cloud, evidências operacionais e custo real serão registrados após a configuração do ambiente de laboratório.
+
+**Link:** [Repositório](https://github.com/sayjinblackbelt/confluent-realtime-payment-pipeline)
+
 ## Comparação técnica
 
-| Projeto | IA / Agentes | Dados | Backend | Interface | Educação | Maturidade |
-|---|---|---|---|---|---|---|
-| NEXA Studio | arquitetura/experimentação | PostgreSQL | Node.js API | GitHub Pages / NEXA Lab | — | Protótipo em validação |
-| Document Intelligence Agent | IA assistida | SQLite | Python API | Web | — | Demonstrativo com CI |
-| Agente PMT | 3 agentes | — | arquitetura de agentes | GitHub Pages | **central** | Protótipo publicado |
-| AI Financial Agent Builder | arquitetura de agente | SQLite | Flask | Dashboard Web | — | MVP v0.3 |
+| Projeto | IA / Agentes | Dados | Streaming | Backend | Interface | Educação | Maturidade |
+|---|---|---|---|---|---|---|---|
+| NEXA Studio | arquitetura/experimentação | PostgreSQL | — | Node.js API | GitHub Pages / NEXA Lab | — | Protótipo em validação |
+| Document Intelligence Agent | IA assistida | SQLite | — | Python API | Web | — | Demonstrativo com CI |
+| Agente PMT | 3 agentes | — | — | arquitetura de agentes | GitHub Pages | **central** | Protótipo publicado |
+| AI Financial Agent Builder | arquitetura de agente | SQLite | — | Flask | Dashboard Web | — | MVP v0.3 |
+| Confluent Realtime Payment Pipeline | preparação para IA | Kafka / Confluent | **central** | Flink SQL + Consumer | evidências operacionais | — | Em implementação operacional |
 
-## O que os quatro projetos demonstram
+## O que o conjunto demonstra
 
 **NEXA Studio** → produto digital + design + arquitetura  
 **Document Intelligence Agent** → documentos + automação + IA assistida  
 **Agente PMT** → IA + educação + agentes especializados  
-**AI Financial Agent Builder** → dados + regras + arquitetura de agente
+**AI Financial Agent Builder** → dados + regras + arquitetura de agente  
+**Confluent Realtime Payment Pipeline** → eventos + streaming + engenharia de dados em tempo real
 
-O conjunto demonstra capacidade de projetar soluções digitais para problemas distintos, documentando arquitetura, limitações, testes, roadmap e aplicação.
+A documentação mantém a distinção entre implementação efetiva, protótipo, preparação operacional e roadmap.
 
 ## Navegação
 
