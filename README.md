@@ -18,7 +18,7 @@ O objetivo não é apenas listar certificados, mas apresentar **como o conhecime
 
 Profissional multidisciplinar na interseção entre **Educação, Tecnologia, Inteligência Artificial, Automação, Design Digital, Dados e Gestão de Projetos**.
 
-O foco técnico atual está na criação e aplicação de soluções digitais com **IA generativa, LLMs, agentes de IA, automação, desenvolvimento de software, dados, segurança e sistemas digitais**, conectando tecnologia a problemas reais de educação, processos e comunicação.
+O foco técnico atual inclui **IA generativa, LLMs, agentes, automação, Python, dados, segurança, desenvolvimento de software e engenharia de dados/streaming**, conectando tecnologia a problemas reais de educação, processos, comunicação e sistemas digitais.
 
 ---
 
@@ -33,8 +33,6 @@ A formação contribui para minha atuação em educação, desenvolvimento human
 ---
 
 # 🧠 8 áreas de capacitação
-
-A formação técnica está organizada em oito macroáreas. Alguns conhecimentos são naturalmente interdisciplinares; a classificação abaixo funciona como estrutura de navegação do portfólio.
 
 ## 01 · Inteligência Artificial, GenAI & Agentes
 
@@ -52,8 +50,6 @@ LLMs, GenAI, prompting, agentes, assistentes virtuais, NotebookLM, Copilot, Clau
 - Claude
 - IA aplicada à educação e produtividade
 
-**Aplicações documentadas:** NEXA Studio, Document Intelligence Agent, Agente PMT e AI Financial Agent Builder.
-
 ## 02 · Dados, Python & Analytics
 
 Python, Pandas/NumPy, limpeza, análise, visualização, detecção de anomalias, Power BI.
@@ -62,7 +58,7 @@ Python, Pandas/NumPy, limpeza, análise, visualização, detecção de anomalias
 - Pandas / NumPy
 - preparação e limpeza de dados
 - análise exploratória
-- visualização de dados
+- visualização
 - detecção de anomalias
 - Power BI
 - indicadores e dashboards
@@ -81,6 +77,10 @@ SQL, bancos relacionais, ETL, Power Query, arquitetura orientada a eventos, Kafk
 - Excel + SQL + BI
 - arquitetura orientada a eventos
 - Apache Kafka
+- Confluent Cloud
+- Schema Registry
+- Flink SQL
+- CDC
 - dados em tempo real
 
 ## 04 · Cibersegurança & DevSecOps
@@ -114,8 +114,6 @@ Python, APIs, JavaScript, Git/GitHub, automação, software.
 - CI/CD
 - lógica e estruturas de dados
 
-**Aplicações:** NEXA Studio, PMO Automation & Dashboard, Google Workspace Automation, Waiting List Management System e Social Survey Management System.
-
 ## 06 · Gestão, PMO & MIS
 
 PMO, planejamento, indicadores, gestão de projetos, Scrum, Kanban, OKR, MIS.
@@ -132,8 +130,6 @@ PMO, planejamento, indicadores, gestão de projetos, Scrum, Kanban, OKR, MIS.
 - riscos
 - melhoria de processos
 
-**Aplicação documentada:** PMO Automation & Dashboard.
-
 ## 07 · Design Digital & Comunicação
 
 Design gráfico, comunicação visual, Canva, prototipação.
@@ -149,8 +145,6 @@ Design gráfico, comunicação visual, Canva, prototipação.
 - prototipação
 - comunicação visual digital
 
-**Aplicação documentada:** 26_Design_Grafico e NEXA Studio.
-
 ## 08 · Tecnologia Educacional
 
 Informática Educacional, PMT, Mídias Digitais, IA aplicada à educação.
@@ -163,10 +157,7 @@ Informática Educacional, PMT, Mídias Digitais, IA aplicada à educação.
 - LibreOffice
 - IA aplicada à educação
 - aprendizagem baseada em projetos
-- design e produção digital
 - autonomia tecnológica
-
-**Aplicações:** Agente PMT, projetos educacionais, oficinas de informática e projetos de mídias digitais.
 
 ---
 
@@ -202,7 +193,7 @@ O número oficial utilizado neste repositório é **135 registros**.
 - automação
 - soluções de IA
 
-**2026 · IA moderna, dados, segurança e sistemas**
+**2026 · IA moderna, dados, segurança e streaming**
 - Python e Analytics
 - SQL e bancos relacionais
 - ETL e Power Query
@@ -215,8 +206,11 @@ O número oficial utilizado neste repositório é **135 registros**.
 - DevSecOps
 - detecção de anomalias
 - Kafka e arquitetura orientada a eventos
+- Confluent Cloud
+- Schema Registry
+- Flink SQL
+- CDC
 - dados em tempo real
-- GenAI, Dados & Cyber
 
 **[Ver catálogo completo DIO — 135 registros →](./certificacoes/CATALOGO-COMPLETO-DIO.md)**
 
@@ -226,9 +220,10 @@ O número oficial utilizado neste repositório é **135 registros**.
 
 | Projeto | Competências demonstradas |
 |---|---|
+| [Confluent Realtime Payment Pipeline](https://github.com/sayjinblackbelt/confluent-realtime-payment-pipeline) | Confluent Cloud, Kafka, CDC, Schema Registry, Flink SQL, streaming, enriquecimento e detecção de fraude |
 | [NEXA Studio](https://github.com/sayjinblackbelt/NEXA-Studio) | Design, tecnologia, arquitetura, API, PostgreSQL, Supabase, frontend |
 | [PMO Automation & Dashboard](https://github.com/sayjinblackbelt/pmo-automation-and-dashboard) | PMO, Python, dados, indicadores, automação, governança |
-| [document-intelligence-agent](https://github.com/sayjinblackbelt/document-intelligence-agent) | IA assistida, OCR, documentos, automação, API |
+| [Document Intelligence Agent](https://github.com/sayjinblackbelt/document-intelligence-agent) | IA assistida, OCR, documentos, automação, API |
 | [Agente PMT](https://github.com/sayjinblackbelt/Agente-PMT) | IA, educação, carreira e agentes especializados |
 | [AI Financial Agent Builder](https://github.com/sayjinblackbelt/AI-Financial-Agent-Builder) | Dados, regras, arquitetura de agente, Flask, SQLite |
 | [Google Workspace Automation](https://github.com/sayjinblackbelt/google-workspace-automation) | Google Apps Script, automação e produtividade |
@@ -236,7 +231,23 @@ O número oficial utilizado neste repositório é **135 registros**.
 | [Waiting List Management System](https://github.com/sayjinblackbelt/waiting-list-management-system) | Sistemas, processos e automação |
 | [26_Design_Grafico](https://github.com/sayjinblackbelt/26_Design_Grafico) | Design, educação, projetos e comunicação visual |
 
-## 🤖 Projetos de IA e arquitetura de soluções
+## ⚡ Projeto técnico em destaque — Streaming de pagamentos
+
+### [Confluent Realtime Payment Pipeline](https://github.com/sayjinblackbelt/confluent-realtime-payment-pipeline)
+
+Projeto de aprendizagem prática baseado no Bootcamp **IBM Confluent — Dados em tempo real para agentes de IA**. A arquitetura proposta percorre:
+
+**PostgreSQL → CDC → Confluent Cloud/Kafka → Schema Registry → Flink SQL → `fraud-alerts` → Consumer**
+
+O projeto trabalha conceitos de **Event-Driven Architecture, log distribuído, particionamento, offsets, Consumer Groups, evolução de schemas, enriquecimento de streams, janelas temporais e detecção de transações suspeitas**.
+
+A implementação está preparada para execução no Confluent Cloud. A validação operacional, evidências e custo real dependem da execução do ambiente de laboratório.
+
+**[Abrir projeto →](https://github.com/sayjinblackbelt/confluent-realtime-payment-pipeline)**
+
+---
+
+# 🤖 Projetos de IA e arquitetura de soluções
 
 | Projeto | Foco |
 |---|---|
@@ -244,8 +255,7 @@ O número oficial utilizado neste repositório é **135 registros**.
 | **Document Intelligence Agent** | Documentos, automação e IA assistida |
 | **Agente PMT** | IA educacional e agentes especializados |
 | **AI Financial Agent Builder** | Dados, regras e arquitetura de agente |
-
-A documentação técnica mantém a distinção entre implementação efetiva, protótipo, experimentação e roadmap.
+| **Confluent Realtime Payment Pipeline** | Streaming, eventos, dados em tempo real e preparação para IA |
 
 **[Ver análise técnica completa dos Projetos de IA →](./certificacoes/PROJETOS-IA.md)**
 
@@ -255,7 +265,7 @@ A documentação técnica mantém a distinção entre implementação efetiva, p
 
 ### [🚀 Acessar o Portfólio Profissional](https://sayjinblackbelt.github.io/formacao-e-capacitacoes/recrutadores/)
 
-A apresentação visual reúne **formação, 135 registros DIO, 8 áreas de capacitação, projetos selecionados, aplicações de IA e evidências técnicas** em uma experiência única para consulta.
+A apresentação visual reúne **formação, 135 registros DIO, 8 áreas de capacitação, projetos selecionados e aplicações técnicas**, agora incluindo o pipeline de streaming de pagamentos como projeto recente de **Kafka, Confluent Cloud, CDC, Schema Registry e Flink SQL**.
 
 > **Formação → Competências → Projetos → Evidências**
 
@@ -284,13 +294,14 @@ Expansão para Inteligência Artificial, Machine Learning, Azure AI e dados.
 IA aplicada, automação e Microsoft Copilot Studio.
 
 **2026**  
-Python, Analytics, SQL, bancos, ETL, Power Query, LLMs, GenAI, Engenharia de Prompt, NotebookLM, agentes, cibersegurança, DevSecOps, detecção de anomalias, Kafka e dados em tempo real.
+Python, Analytics, SQL, bancos, ETL, Power Query, LLMs, GenAI, Engenharia de Prompt, NotebookLM, agentes, cibersegurança, DevSecOps, detecção de anomalias, Kafka, Confluent Cloud, Schema Registry, CDC, Flink SQL e dados em tempo real.
 
 ---
 
 # 🔗 Portfólio
 
 - [GitHub](https://github.com/sayjinblackbelt)
+- [Confluent Realtime Payment Pipeline](https://github.com/sayjinblackbelt/confluent-realtime-payment-pipeline)
 - [NEXA Studio](https://github.com/sayjinblackbelt/NEXA-Studio)
 - [PMO Automation & Dashboard](https://github.com/sayjinblackbelt/pmo-automation-and-dashboard)
 - [Agente PMT](https://github.com/sayjinblackbelt/Agente-PMT)
@@ -311,4 +322,4 @@ Este repositório funciona como índice da formação, enquanto os demais reposi
 
 ---
 
-_Última atualização: setembro de 2026 · 135 registros DIO · 8 áreas de capacitação_
+_Última atualização: setembro de 2026 · 135 registros DIO · 8 áreas de capacitação · Confluent Realtime Payment Pipeline em desenvolvimento_
