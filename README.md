@@ -2,7 +2,7 @@
 
 > ## 🚀 [ABRIR PORTFÓLIO PROFISSIONAL — GITHUB PAGES](https://sayjinblackbelt.github.io/formacao-e-capacitacoes/recrutadores/)
 
-**Formação · 135 registros DIO · 8 áreas · Projetos · Evidências**
+**Formação · 136 registros DIO · 8 áreas · Projetos · Evidências**
 
 ---
 
@@ -67,7 +67,7 @@ Python, Pandas/NumPy, limpeza, análise, visualização, detecção de anomalias
 
 ## 03 · SQL, Bancos & Engenharia de Dados
 
-SQL, bancos relacionais, ETL, Power Query, arquitetura orientada a eventos, Kafka, dados em tempo real.
+SQL, bancos relacionais, ETL, Power Query, CDC, arquitetura orientada a eventos, Apache Kafka, Confluent Cloud, Schema Registry, Flink SQL e dados em tempo real.
 
 - SQL
 - bancos de dados relacionais
@@ -159,18 +159,19 @@ Informática Educacional, PMT, Mídias Digitais, IA aplicada à educação.
 - aprendizagem baseada em projetos
 - autonomia tecnológica
 
+**[Ver mapa completo das 8 áreas →](./certificacoes/MAPA-8-AREAS.md)**
+
 ---
 
 # 📚 DIO — Digital Innovation One
 
-O histórico atual registra **135 certificados/atividades na DIO**, entre **18 de outubro de 2022 e 26 de setembro de 2026**.
+O histórico atual registra **136 certificados/atividades na DIO**, entre **18 de outubro de 2022 e 28 de setembro de 2026**.
 
-Há uma duplicidade explícita de **“IA Generativa: Fundamentos, Prompting e Aplicações”**, registrada duas vezes em **21/09/2026 20:53**. Assim:
+A contagem utilizada aqui é a dos registros/certificados contabilizados na fonte do acompanhamento, preservando duplicidades quando elas aparecem como registros separados.
 
-- **135** = registros/certificados exibidos pela DIO;
-- **134** = títulos distintos considerando essa duplicidade conhecida.
-
-O número oficial utilizado neste repositório é **135 registros**.
+- **136** = registros/certificados contabilizados;
+- o catálogo mantém os títulos e datas individuais;
+- a classificação em 8 áreas é uma camada de navegação profissional.
 
 ### Evolução da formação
 
@@ -212,7 +213,7 @@ O número oficial utilizado neste repositório é **135 registros**.
 - CDC
 - dados em tempo real
 
-**[Ver catálogo completo DIO — 135 registros →](./certificacoes/CATALOGO-COMPLETO-DIO.md)**
+**[Ver catálogo completo DIO →](./certificacoes/CATALOGO-COMPLETO-DIO.md)**
 
 ---
 
@@ -265,7 +266,7 @@ A implementação está preparada para execução no Confluent Cloud. A validaç
 
 ### [🚀 Acessar o Portfólio Profissional](https://sayjinblackbelt.github.io/formacao-e-capacitacoes/recrutadores/)
 
-A apresentação visual reúne **formação, 135 registros DIO, 8 áreas de capacitação, projetos selecionados e aplicações técnicas**, agora incluindo o pipeline de streaming de pagamentos como projeto recente de **Kafka, Confluent Cloud, CDC, Schema Registry e Flink SQL**.
+A apresentação visual reúne **formação, 136 registros DIO, 8 áreas de capacitação, projetos selecionados e aplicações técnicas**, incluindo o pipeline de streaming de pagamentos como projeto recente de **Kafka, Confluent Cloud, CDC, Schema Registry e Flink SQL**.
 
 > **Formação → Competências → Projetos → Evidências**
 
@@ -307,6 +308,7 @@ Python, Analytics, SQL, bancos, ETL, Power Query, LLMs, GenAI, Engenharia de Pro
 - [Agente PMT](https://github.com/sayjinblackbelt/Agente-PMT)
 - [AI Financial Agent Builder](https://github.com/sayjinblackbelt/AI-Financial-Agent-Builder)
 - [Projetos de IA — análise técnica](./certificacoes/PROJETOS-IA.md)
+- [Mapa das 8 áreas](./certificacoes/MAPA-8-AREAS.md)
 - [Catálogo completo DIO](./certificacoes/CATALOGO-COMPLETO-DIO.md)
 - [Matriz Capacitação → Projeto → Evidência](./certificacoes/MATRIZ-CAPACITACAO-PROJETO.md)
 
@@ -322,4 +324,4 @@ Este repositório funciona como índice da formação, enquanto os demais reposi
 
 ---
 
-_Última atualização: setembro de 2026 · 135 registros DIO · 8 áreas de capacitação · Confluent Realtime Payment Pipeline em desenvolvimento_
+_Última atualização: setembro de 2026 · 136 registros DIO · 8 áreas de capacitação · Confluent Realtime Payment Pipeline em desenvolvimento_
