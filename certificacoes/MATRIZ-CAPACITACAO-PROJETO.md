@@ -19,7 +19,7 @@ Esta matriz conecta as principais capacitações da formação às competências
 | Capacitação | Competências relacionadas | Projeto / aplicação | Evidência |
 |---|---|---|---|
 | **Análise de Dados com Python: Da Preparação à Aplicação com Segurança** — 2026 | Python, preparação, análise e segurança | [PMO Automation & Dashboard](https://github.com/sayjinblackbelt/pmo-automation-and-dashboard) | Projeto com processamento de dados, indicadores e automação. |
-| **Detecção de Anomalias em Transações em Python** — 2026 | Python, análise e anomalias | [AI Financial Agent Builder](https://github.com/sayjinblackbelt/AI-Financial-Agent-Builder) | Relação temática com análise financeira; não atribuir implementação específica de detecção de anomalias sem evidência no projeto. |
+| **Detecção de Anomalias em Transações em Python** — 2026 | Python, análise e anomalias | [Confluent Realtime Payment Pipeline](https://github.com/sayjinblackbelt/confluent-realtime-payment-pipeline) | O projeto implementa regra de transações suspeitas em streaming; não atribuir uso de ML/anomaly detection ao pipeline sem evidência específica. |
 | **Criando um Dashboard de Vendas com Power BI** — 2023 | BI, dashboards e indicadores | [PMO Automation & Dashboard](https://github.com/sayjinblackbelt/pmo-automation-and-dashboard) | Dashboard e indicadores aplicados a um caso de PMO. |
 | **Evitando o 7x1 com Python e SQL** — 2022 | Python, SQL e dados | [PMO Automation & Dashboard](https://github.com/sayjinblackbelt/pmo-automation-and-dashboard) | Python e processamento estruturado de dados no projeto. |
 
@@ -27,10 +27,11 @@ Esta matriz conecta as principais capacitações da formação às competências
 
 | Capacitação | Competências relacionadas | Projeto / aplicação | Evidência |
 |---|---|---|---|
+| **Fundamentos de Arquitetura Orientada a Eventos e Apache Kafka** — 2026 | eventos, Kafka e dados em tempo real | [Confluent Realtime Payment Pipeline](https://github.com/sayjinblackbelt/confluent-realtime-payment-pipeline) | Projeto de pipeline com Confluent Cloud/Kafka, CDC, Schema Registry, Flink SQL e consumer preparado. |
+| **Boas vindas ao Bootcamp IBM Confluent — Dados em tempo real para agentes de IA** — 2026 | streaming e ecossistema Confluent | [Confluent Realtime Payment Pipeline](https://github.com/sayjinblackbelt/confluent-realtime-payment-pipeline) | Projeto construído como aplicação prática do desafio do Bootcamp; execução operacional e evidências finais dependem da configuração do ambiente. |
 | **Introdução a Banco de Dados Relacionais** — 2026 | bancos relacionais e modelagem | [AI Financial Agent Builder](https://github.com/sayjinblackbelt/AI-Financial-Agent-Builder) | SQLite e modelagem de dados documentados no projeto. |
 | **Fundamentos de Dados: Excel, SQL e Business Intelligence** — 2026 | SQL, dados e BI | [PMO Automation & Dashboard](https://github.com/sayjinblackbelt/pmo-automation-and-dashboard) | Relação com processamento e visualização estruturada de dados. |
 | **Criando um Processo de ETL com Excel e Power Query** — 2026 | ETL e transformação de dados | Projetos de dados | Capacitação registrada; não atribuir uso específico de Power Query a um projeto sem documentação. |
-| **Fundamentos de Arquitetura Orientada a Eventos e Apache Kafka** — 2026 | eventos, Kafka e dados em tempo real | Portfólio de dados | Capacitação recente; não há evidência, nesta matriz, de implementação de Kafka em projeto específico. |
 
 ## 04 · Cibersegurança & DevSecOps
 
@@ -91,6 +92,7 @@ Isso evita transformar uma certificação em uma alegação de experiência que 
 
 ## Projetos-chave do portfólio
 
+- [Confluent Realtime Payment Pipeline](https://github.com/sayjinblackbelt/confluent-realtime-payment-pipeline)
 - [NEXA Studio](https://github.com/sayjinblackbelt/NEXA-Studio)
 - [PMO Automation & Dashboard](https://github.com/sayjinblackbelt/pmo-automation-and-dashboard)
 - [Document Intelligence Agent](https://github.com/sayjinblackbelt/document-intelligence-agent)
